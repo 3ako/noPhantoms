@@ -1,0 +1,5 @@
+name: PhantomsLimit
+version: '${project.version}'
+main: trustmc.phantomslimit.PhantomsLimit
+api-version: 1.18
+authors: [ Zako ]
